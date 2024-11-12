@@ -1,37 +1,37 @@
 {
   "deuses": [
     {
-      "nome": "Zeus",
+      "nome": "Zeus"
 
     },
     {
-      "nome": "Athena",
+      "nome": "Athena"
 
     },
     {
-      "nome": "Germes",
+      "nome": "Germes"
 
     },
     {
-      "nome": "Demether",
+      "nome": "Demether"
 
     }
   ],
   "armas": [
     {
-      "nome": "Raio",
+      "nome": "Raio"
 
     },
     {
-      "nome": "Cetro",
+      "nome": "Cetro"
 
     },
     {
-      "nome": "Caduceu",
+      "nome": "Caduceu"
 
     },
     {
-      "nome": "Foice",
+      "nome": "Foice"
 
     }
   ],
