@@ -16,5 +16,23 @@
       "nome": "Demether"
 
     }
+  ],
+  "armas": [
+    {
+      "nome": "Raio"
+
+    },
+    {
+      "nome": "Cetro"
+
+    },
+    {
+      "nome": "Caduceu"
+
+    },
+    {
+      "nome": "Foice"
+
+    }
   ]
 }
